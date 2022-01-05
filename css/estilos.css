@@ -1,5 +1,5 @@
 body {
-    color: black;
+    color: rgb(154, 199, 32);
     text-align: center;
     font-family: "Arial";
     margin: 0;
@@ -11,7 +11,7 @@ body {
     color: black;
     font-family: Arial;
     margin: 0;
-    border: 2px;
+    border: 1px;
 }
 
 #Container {
