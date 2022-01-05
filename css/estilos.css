@@ -6,6 +6,14 @@ body {
     padding: 0;
 }
 
+#cabecera {
+    background: #19A48D;
+    color: black;
+    font-family: Arial;
+    margin: 0;
+    border: 2px;
+}
+
 #Container {
     width: 70%;
     padding: 1em;
