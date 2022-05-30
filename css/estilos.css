@@ -3,15 +3,8 @@
     margin: 0;
     box-sizing: border-box;
 }
-body {
-    color: rgb(154, 199, 32);
-    text-align: center;
-    font-family: "Arial";
-    margin: 0;
-    padding: 0;
-}
 
-#cabecera {
+.cabecera {
     background: #19A48D;
     color: black;
     font-family: Arial;
@@ -19,7 +12,7 @@ body {
     border: 1px;
 }
 
-#Container {
+.Container {
     width: 70%;
     padding: 1em;
     text-align: left;
@@ -27,6 +20,6 @@ body {
     margin: 0 auto;
 }
 
-#Container h1 {
+.Container h1 {
     font-size: 20px;
 }
