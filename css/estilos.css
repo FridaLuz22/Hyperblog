@@ -4,22 +4,21 @@
     box-sizing: border-box;
 }
 
-.cabecera {
-    background: #19A48D;
-    color: black;
-    font-family: Arial;
-    margin: 0;
-    border: 1px;
-}
-
 .Container {
     width: 70%;
     padding: 1em;
     text-align: left;
     border: 1px solid black;
     margin: 0 auto;
+    background-color:beige;
 }
 
 .Container h1 {
-    font-size: 20px;
+    text-align: center;
+    color: chocolate;
+    
+}
+
+.Container p{
+    font-size: 1.2rem;
 }
